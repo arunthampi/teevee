@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/ruby -w
 
 =begin
 scrap-mediacorp.rb is a script that is meant to be ran as a cron job.
